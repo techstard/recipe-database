@@ -1,0 +1,11 @@
+#summary Default catch-all page for notes, memos, etc.
+
+= Introduction =
+
+So let's get this recipe db started! 
+
+
+= Details =
+
+What do we need to do to start? 
+* What is our first step? How long will it take (approx)? 

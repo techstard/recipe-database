@@ -1,0 +1,1 @@
+This is a website for recipes. It runs on a mysql database via python and django. This is a first project for us, so while it will be awesome, it will also be a learning experience.

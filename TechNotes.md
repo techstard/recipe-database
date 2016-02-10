@@ -1,0 +1,11 @@
+# Introduction #
+
+This is a scratch pad for the developers of the recipe database to share the tips and tricks they find while developing. Also, it can be a place to document local development steps, subversion processes, gotchas, etc.
+
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
